@@ -1,5 +1,5 @@
  <template>
-    <div>content addcontentforcache addcontentforworktree</div>
+    <div></div>
  </template>
  <script>
 
